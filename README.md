@@ -27,8 +27,8 @@ Aqui estão os testes realizados com a IA:
 ## 📖 Miniguia de Estudo (Entrega Final)
 
 ### Resumos Estruturados
-* **O que é o TDAH:** [Insere o teu resumo aqui]
-* **Impactos na Aprendizagem:** [Insere o teu resumo aqui]
+* **O que é o TDAH:** : é um transtorno do neurodesenvolvimento e não uma questão de falta de força de vontade, má educação ou preguiça, caracterizado por três sintomas principais: desatenção, hiperatividade e impulsividade.
+* **Quais são Impactos na Aprendizagem de um TDAH:** Os impactos do TDAH (ou PHDA) manifestam-se das seguintes formas: 1 - Dificuldade de foco e retenção de informação, 2 -Erros por descuido e desorganização crónica, 3 - Procrastinação extrema e evasão de tarefas, 4 - Comportamento em sala de aula (Hiperatividade/Impulsividade), 5 - Dificuldades de aprendizagem associadas
 
 ### 🔍 Glossário
 * **Hiperfoco:** Concentração intensa num tema de interesse.
